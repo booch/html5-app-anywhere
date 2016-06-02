@@ -1,4 +1,4 @@
-# Sample application for various “Cross-Platform HTML5 – in Action!” workshops
+# Sample application for running an "HTML5 Web App" on all platforms
 
 ## Setup
 * Download and install the platform SDKs and/or emulators for the platform you want to develop for (this might take quite a while… so do this first!)
@@ -61,16 +61,11 @@ If you want to change [Android's SDK version](http://developer.android.com/guide
 
 ## Third-Party Libraries
 ### JavaScript, CSS
-* [Angular2](https://angular.io/), JavaScript framework — HTML enhanced for web apps!
-* [Bootstrap](http://getbootstrap.com/), responsive layout framework
-* [AdminLTE](https://almsaeedstudio.com/preview), free responsive dashboard template
-  * [Font Awesome](https://fortawesome.github.io/Font-Awesome/), free icon font
-  * [jQuery](https://jquery.com/), JavaScript library required for AdminLTE
+* [jQuery](https://jquery.com/), JavaScript library required for AdminLTE
   * [winstore-jscompat](https://github.com/MSOpenTech/winstore-jscompat), fixes jQuery issues with Windows (Phone) 8 and 8.1 platforms
 * [FastClick](https://github.com/ftlabs/fastclick), eliminates the [infamous 300 ms lag on touch devices](http://developer.telerik.com/featured/300-ms-click-delay-ios-8/)
 * [HammerJS](http://hammerjs.github.io/), for touch interactions
 * [FontAwesome](http://fontawesome.io) Images powered by font awesome
-* [Leaflet](http://leafletjs.com/), an open-source JavaScript library for mobile-friendly interactive maps
 * [pNotify](http://sciactive.com/pnotify/) UI notification library
 
 ### Native Wrappers
@@ -81,6 +76,4 @@ If you want to change [Android's SDK version](http://developer.android.com/guide
 * [Electron](http://electron.atom.io/) for desktop applications
 
 ## Additional Resources
-* [Cross-platform 2D and 3D visualizations](https://github.com/thinktecture/basta-herbst-2015-2d-3d)
 * [Offline-first architecture for HTML5 apps](https://speakerdeck.com/christianweyer/auch-ohne-netz-offline-first-architekturen-fur-html5-apps)
-* [Leightweight architecture with ASP.NET and SignalR](https://speakerdeck.com/christianweyer/fur-alle-leichtgewichtige-architekturen-mit-asp-dot-net-web-api-and-signalr)
